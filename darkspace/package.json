@@ -26,5 +26,5 @@
         "url": "git remote add origin https://github.com/yesomac/dark_space-vscodde.git",
         "type": "git"
     },
-    "publisher": "code-binary"
+    "publisher": "YesCode"
 }
