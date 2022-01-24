@@ -17,5 +17,15 @@
                 "path": "./themes/DarkSpace-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "img/dark.png",
+    "author": {
+        "name": "Yes Dev",
+        "email": "yesdev19@gmail.com"
+    },
+    "repository": {
+        "url": "git remote add origin https://github.com/yesomac/dark_space-vscodde.git",
+        "type": "git"
+    },
+    "publisher": "code-binary"
 }
