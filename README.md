@@ -1,0 +1,2 @@
+# darkSpace
+Theme for VSCode
