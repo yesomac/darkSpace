@@ -2,7 +2,7 @@
     "name": "darkspace",
     "displayName": "darkspace",
     "description": "",
-    "version": "0.0.2",
+    "version": "0.0.1.1",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -18,7 +18,7 @@
             }
         ]
     },
-    "icon": "img/dark.png",
+    "icon": "img/dark.svg",
     "author": {
         "name": "Yes Dev",
         "email": "yesdev19@gmail.com"
