@@ -1,3 +1,6 @@
-# DarkSpace
+# darkSpace
+Theme for VSCode
 
-![ScreenShot](/img/extension.png)
+![](darkspace/img/extension.png)
+
+![](darkspace/img/extension2.png)
