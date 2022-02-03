@@ -2,10 +2,18 @@
     "name": "darkspace",
     "displayName": "darkspace",
     "description": "",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.63.0"
     },
+    "keywords": [
+        "Theme",
+        "DarkSpace",
+        "DarkSpace R",
+        "DarkSpace G",
+        "DarkSpace B",
+        "DarkSpace 0f"
+    ],
     "categories": [
         "Themes"
     ],
@@ -15,6 +23,26 @@
                 "label": "DarkSpace",
                 "uiTheme": "vs-dark",
                 "path": "./themes/DarkSpace-color-theme.json"
+            },
+            {
+                "label": "DarkSpace R",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkSpace-color-theme-r.json"
+            },
+            {
+                "label": "DarkSpace G",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkSpace-color-theme-g.json"
+            },
+            {
+                "label": "DarkSpace B",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkSpace-color-theme-b.json"
+            },
+            {
+                "label": "DarkSpace 0f",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkSpace-color-theme-0f.json"
             }
         ]
     },
@@ -24,7 +52,7 @@
         "email": "yesdev19@gmail.com"
     },
     "repository": {
-        "url": "git remote add origin https://github.com/yesomac/dark_space-vscodde.git",
+        "url": "https://github.com/yesomac/darkSpace.git",
         "type": "git"
     },
     "publisher": "YesCode"
