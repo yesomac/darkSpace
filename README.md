@@ -4,6 +4,9 @@ Theme for VSCode
 ## DarkSpace
 ![This is an image](https://github.com/yesomac/darkSpace/blob/main/DS.png?raw=true)
 
+## DarkSpace Dark
+![This is an image]()
+
 ![This is an image](https://github.com/yesomac/darkSpace/blob/main/DSII.png?raw=true)
 #
 

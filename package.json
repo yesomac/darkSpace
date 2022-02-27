@@ -9,6 +9,7 @@
     "keywords": [
         "Theme",
         "DarkSpace",
+        "DarkSpace Dark",
         "DarkSpace R",
         "DarkSpace G",
         "DarkSpace B",
@@ -23,6 +24,11 @@
                 "label": "DarkSpace",
                 "uiTheme": "vs-dark",
                 "path": "./themes/DarkSpace-color-theme.json"
+            },
+            {
+                "label": "DarkSpace Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkSpace-dark-color-theme.json"
             },
             {
                 "label": "DarkSpace R",
