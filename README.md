@@ -1,14 +1,13 @@
 # DarkSpace
 Theme for VSCode
 
+## DarkSpace Dark
+![This is an image](https://github.com/yesomac/darkSpace/blob/main/darkdark.png?raw=true)
+
 ## DarkSpace
 ![This is an image](https://github.com/yesomac/darkSpace/blob/main/DS.png?raw=true)
 
-## DarkSpace Dark
-![This is an image]()
-
 ![This is an image](https://github.com/yesomac/darkSpace/blob/main/DSII.png?raw=true)
-#
 
 ## DarkSpace R
 ![This is an image](https://github.com/yesomac/darkSpace/blob/main/DSR.png?raw=true)
