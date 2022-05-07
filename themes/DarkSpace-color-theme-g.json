@@ -10,23 +10,24 @@
 		"sideBarSectionHeader.background": "#000",
 		"editorLineNumber.foreground": "#8ba895",
 		"editorLineNumber.activeForeground": "#04fe3a",
-		"statusBar.background": "#00FF00",
+		"statusBar.background": "#015201",
 		"statusBar.noFolderBackground": "#00da00",
-		"statusBar.debuggingBackground": "#01cf35",
+		"statusBar.debuggingBackground": "#097509",
 		"badge.background": "#000b00",
-		"activityBar.activeBackground": "#000401",
 		"activityBar.background": "#000400",
 		"menu.background": "#000300",
-		"tab.activeBackground": "#000300",
+		"tab.activeBackground": "#012701c9",
 		"tab.inactiveBackground": "#000300",
 		"tab.hoverBackground": "#00ff0063",
+		"tab.activeBorder": "#000300",
+		"tab.activeForeground": "#fff",
+		"editorGroupHeader.tabsBackground": "#000300",
+		"tab.border": "#000300",
+		"tab.activeBorderTop": "#157502",
 		"titleBar.activeBackground": "#000300",
 
 
 		"sideBarSectionHeader.foreground": "#72ca72",
-		"tab.activeBorder": "#157502",
-		"tab.activeForeground": "#fff",
-		"editorGroupHeader.tabsBackground": "#000300",
 
 		"editor.selectionBackground": "#00ff0011",
 		"editor.inactiveSelectionBackground": "#00ff002a",
@@ -36,19 +37,19 @@
 		"activityBar.foreground": "#fff",
 
 		"notifications.background": "#000300",
-		"button.background": "#00ff00",
+		"button.background": "#034709dc",
 		"button.secondaryBackground": "#1f372f",
 
 		"quickInput.background": "#000300",
 
-		"input.border": "#000300",
+		"input.border": "#034709dc",
 		"input.background": "#000300",
 		"input.placeholderForeground": "#000300",
 
 		"editorSuggestWidget.selectedBackground": "#03490f",
 		"editorSuggestWidget.background": "#000300",
-		"editor.findMatchBackground": "#000300",
-		"editor.findMatchHighlightBackground": "#086424",
+		"editor.findMatchBackground": "#031b03",
+		"editor.findMatchHighlightBackground": "#121814",
 
 		"list.hoverBackground": "#1a831fa1",
 		"list.inactiveSelectionBackground": "#03470985",
@@ -57,9 +58,9 @@
 		"settings.dropdownBackground": "#068617a9",
 		"editorWidget.background":"#024102d5",
 
-		"titleBar.activeForeground": "#8fda8f",
+		"titleBar.activeForeground": "#ddd",
 		"terminal.background": "#000300",
-		"terminal.foreground": "#cf8484",
+		"terminal.foreground": "#caf0ba",
 		"terminal.ansiBlack": "#1D2021",
 		"terminal.ansiBrightBlack": "#665C54",
 		"terminal.ansiBrightBlue": "#0D6678",
@@ -77,14 +78,16 @@
 		"terminal.ansiWhite": "#A89984",
 		"terminal.ansiYellow": "#FAC03B",
 
+		"editor.hoverHighlightBackground": "#023506",
+		"editorHoverWidget.background": "#023506",
+		"list.activeSelectionBackground": "#034709dc",
 
+		"activityBar.activeBorder": "#008332",
 
-
-		"editor.hoverHighlightBackground": "#0297347e",
-		"editorHoverWidget.background": "#000300",
-		"list.activeSelectionBackground": "#011607",
-
-		"activityBar.activeBorder": "#008332"
+		"sideBar.border": "#011a18",
+		"sideBarSectionHeader.border": "#011a18d8",
+		"activityBar.border": "#011a18da",
+		"terminal.border": "#011a18ee"
 	},
 	"tokenColors": [
 		{

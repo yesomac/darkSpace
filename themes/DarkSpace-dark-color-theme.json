@@ -35,7 +35,11 @@
 		"badge.background": "#686867",
 		
 		"menu.background": "#000",
-		"tab.activeBackground": "#000",
+		"tab.activeBorder": "#000",
+		"tab.activeForeground": "#ddd",
+		"tab.activeBackground": "#090909",
+		"tab.border": "#000",
+		"tab.activeBorderTop": "#1a4e01f1",
 		"tab.inactiveBackground": "#000",
 		"tab.hoverBackground": "#141414",
 
@@ -47,9 +51,6 @@
 		"focusBorder": "#110b1b",
 
 		"button.background": "#141414",
-
-		"tab.activeBorder": "#1a4e01f1",
-		"tab.activeForeground": "#ddd",
 		
 		"notifications.background": "#000",
 		"quickInput.background": "#000",
@@ -82,7 +83,12 @@
 		
 		"editor.hoverHighlightBackground": "#011a1886",
 		"editorHoverWidget.background": "#011a1886",
-		"list.activeSelectionBackground": "#011a1886"
+		"list.activeSelectionBackground": "#011a1886",
+
+		"sideBar.border": "#011a18",
+		"sideBarSectionHeader.border": "#011a18d8",
+		"activityBar.border": "#011a18da",
+		"terminal.border": "#011a18ee"
 	},
 	"tokenColors": [
 		{

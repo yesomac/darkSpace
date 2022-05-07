@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#000",
 		"editor.foreground": "#fff",
-		"activityBarBadge.background": "#ECF0F1",
+		"activityBarBadge.background": "#ddd",
         "activityBarBadge.foreground": "#000",
 		"sideBarTitle.foreground": "#fff",
 		"sideBar.background": "#000",
@@ -15,18 +15,19 @@
 		"statusBar.noFolderBackground": "#000",
 		"statusBar.debuggingBackground": "#000",
 		"badge.background": "#000",
-		"activityBar.activeBackground": "#000",
 		"activityBar.background": "#000",
 		"menu.background": "#000",
-		"tab.activeBackground": "#000",
-		"tab.inactiveBackground": "#000",
-		"tab.hoverBackground": "#000",
-		"titleBar.activeBackground": "#000",
 
 
 		"sideBarSectionHeader.foreground": "#fff",
-		"tab.activeBorder": "#fff",
+		"tab.activeBorder": "#000",
 		"tab.activeForeground": "#fff",
+		"tab.activeBorderTop": "#fff",
+		"tab.border": "#000",
+		"tab.activeBackground": "#141414",
+		"tab.inactiveBackground": "#000",
+		"tab.hoverBackground": "#121212",
+		"titleBar.activeBackground": "#000",
 		"editorGroupHeader.tabsBackground": "#000",
 
 		"editor.selectionBackground": "#b783f34f",
@@ -38,7 +39,7 @@
 
 		"notifications.background": "#000",
 		"notifications.foreground": "#fff",
-		"button.background": "#fff",
+		"button.background": "#ddd",
         "button.foreground": "#000",
 		"button.secondaryBackground": "#1f1f37",
 
@@ -87,7 +88,12 @@
 		"editorHoverWidget.background": "#17202A",
 		"list.activeSelectionBackground": "#17202A",
 
-		"activityBar.activeBorder": "#fff"
+		"activityBar.activeBorder": "#fff",
+
+		"sideBarSectionHeader.border": "#ddd",
+		"sideBar.border": "#dddddd4d",
+		"activityBar.border": "#dddddd4d",
+		"terminal.border": "#011a18ee"
 	},
 	"tokenColors": [
 		{
